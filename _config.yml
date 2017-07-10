@@ -10,6 +10,7 @@ baseurl: ""
 url: "http://cnfeat"  
 
 # About/contact
+# owner里面如果加东西的话会在下面的name里面报错
 owner: 
   name: " 唐万锂"
   email: 771147315@qq.com

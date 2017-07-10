@@ -6,11 +6,13 @@ tagline: "cn"
 # 网站描述，这个主要用于seo
 description: "唐万锂|读而立·写而生"  
 baseurl: ""
+# 网址
 url: "http://cnfeat"  
 
 # About/contact
-owner: rockTang
-  #name: " Steven"
+owner: 唐万锂
+  # 不知道下面这个name里面应该加些什么，会报错
+  name: " CnFeat"
   email: 771147315@qq.com
   bio: "写就是写的报酬"
 
@@ -47,7 +49,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "rockTang"
+      author: "唐万锂"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 

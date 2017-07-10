@@ -1,16 +1,20 @@
 # Site settings
+# 网站标题
 title: 唐万锂的博客 
 header-img: "img/green.jpg"
 tagline: "cn"  
+# 网站描述，这个主要用于seo
 description: "唐万锂|读而立·写而生"  
 baseurl: ""
+# 网址
 url: "http://cnfeat"  
 
 # About/contact
 owner: 
+# 不知道下面这个name里面应该加些什么，会报错
   name: " CnFeat"
   email: 771147315@qq.com
-  bio: "写就是写的报酬"
+  bio: "分享知识也是一种快乐"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
@@ -30,9 +34,11 @@ markdown: kramdown
 highlighter: rouge
 permalink: pretty
 paginate: 8
+# exclude: 转换时候排除某些文件夹或文件。被排除的文件或文件夹的路径是相对于网站源码目录的，源码目录以外不受影响。
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# 网站时区
 timezone: Asia/Shanghai
 
 # Defaults for posts

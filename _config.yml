@@ -10,8 +10,8 @@ baseurl: ""
 url: "http://www.tangwanli.com"  
 
 # About/contact
-owner: rockTang
-  name: " Steven"
+owner: 唐万锂
+  name: "唐万锂"
   email: 771147315@qq.com
   bio: "分享知识也是一种快乐"
 
@@ -48,7 +48,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "rockTang"
+      author: "唐万锂"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 

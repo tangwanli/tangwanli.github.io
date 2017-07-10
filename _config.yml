@@ -6,14 +6,13 @@ tagline: "cn"
 # 网站描述，这个主要用于seo
 description: "唐万锂|读而立·写而生"  
 baseurl: ""
-# 网址
-url: "http://www.tangwanli.com"  
+url: "http://cnfeat"  
 
 # About/contact
-owner: 唐万锂
-  name: "唐万锂"
+owner: rockTang
+  name: " Steven"
   email: 771147315@qq.com
-  bio: "分享知识也是一种快乐"
+  bio: "写就是写的报酬"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
@@ -48,7 +47,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "唐万锂"
+      author: "rockTang"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 

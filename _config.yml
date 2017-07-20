@@ -8,6 +8,7 @@ description: "唐万锂|读而立·写而生"
 baseurl: ""
 # 网址
 url: "http://tangwanli.com"  
+root:
 
 # About/contact
 # owner里面如果加东西的话会在下面的name里面报错

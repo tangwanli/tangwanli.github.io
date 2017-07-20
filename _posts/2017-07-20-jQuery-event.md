@@ -1,21 +1,22 @@
 ﻿---
 layout: post
-title:  "Jquery事件和方法"
-date:   2017-7-20 17:07:00
+title:  "JQuery事件和方法"
 categories: JavaScript
-tags: JavaScript
+tags: 函数 JavaScript
+author: 唐万锂
 ---
 
 * content
 {:toc}
 
+这个呢，主要是jq的事件和方法
+
+
+
+
 ### 一、jQuery中的事件
 
   
-
-
-
-
 ##### 一、事件绑定
   
   (1)**bind()方法**：用bind()方法对匹配元素进行特定的事件绑定。

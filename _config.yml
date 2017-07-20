@@ -6,7 +6,7 @@ tagline: "cn"
 # 网站描述，这个主要用于seo，告诉搜索引擎一个关于您站点的简单描述，通常建议在其中包含您网站的关键词
 description: "唐万锂|读而立·写而生"  
 author: "唐万锂"
-baseurl: ""
+baseurl: "http://tangwanli.com"
 # 自己网站的网址
 url: "http://tangwanli.com"  
 # 网站的根目录

@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title:  "jQuery算法"
-categories: JavaScript
+categories: jQuery
 tags:  算法 shuffle 乱序 洗牌
 author: 唐万锂
 ---

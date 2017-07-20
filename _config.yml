@@ -1,72 +1,60 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
 # Site settings
-# 网站标题
-title: 唐万锂的博客 
-header-img: "img/green.jpg"
-tagline: "cn"  
-# 网站描述，这个主要用于seo，告诉搜索引擎一个关于您站点的简单描述，通常建议在其中包含您网站的关键词
-description: "唐万锂|读而立·写而生"  
-author: "唐万锂"
-baseurl: "http://tangwanli.com"
-# 自己网站的网址
-url: "http://tangwanli.com"  
-# 网站的根目录
-root:
+title: HyG
+brief-intro: Front-end Dev Engineer
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://gaohaoyang.github.io" # the base hostname & protocol for your site
 
-# About/contact
-# owner里面如果加东西的话会在下面的name里面报错
-owner: 
-  name: " 唐万锂"
-  email: 771147315@qq.com
-  bio: "分享知识也是一种快乐"
+permalink: /:year/:month/:day/:title/
 
-# Data
-gavatar: http://dreamofbook.qiniudn.com/Az..png
-favicon: img/favicon.png
+# other links
+twitter_username: gaohaoyang126
+facebook_username: gaohaoyang.water
+github_username:  Gaohaoyang
+email: gaohaoyang126@126.com
+weibo_username: 3115521wh
+zhihu_username: gaohaoyang
+linkedIn_username: gaohaoyang
+dribbble_username:
 
-douban_username:  
-twitter_username: 
-github_username: rockTang
-facebook_username: rockTang
-weibo_username: 
-zhihu_username: 
+description_footer: 本站记录我前端之旅的沿途风景！
 
-# Build settings  
-# use Github Flavored Markdown !important  
-# document: http://jekyllrb.com/docs/configuration/#kramdown  
+# comments
+# two ways to comment, only choose one, and use your own short name
+# 两种评论插件，选一个就好了，使用自己的 short_name
+duoshuo_shortname: #hygblog
+disqus_shortname: gaohaoyang
+
+# statistic analysis 统计代码
+# 百度统计 id，将统计代码替换为自己的百度统计id，即
+# hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
+# xxxxx字符串
+baidu_tongji_id: cf8506e0ef223e57ff6239944e5d46a4
+google_analytics_id: UA-72449510-4 # google 分析追踪id
+
+# Build settings
 markdown: kramdown
-highlighter: rouge
-permalink: pretty
-paginate: 8
-# exclude: 转换时候排除某些文件夹或文件。被排除的文件或文件夹的路径是相对于网站源码目录的，源码目录以外不受影响。
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-# 网站时区
-timezone: Asia/Shanghai
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 
-# Defaults for posts
-defaults:
-  -
-    scope: 
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      author: "唐万锂"
-      header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
+# port
+# port: 1234
 
-# Comments 
-comments :
-  provider : duoshuo
-  duoshuo :
-    short_name : 
-  disqus :
-      short_name : 
+# url
+category_dir: category/
+tag_dir: tag/
 
-# Analytics and webmaster tools stuff goes here
-google_analytics: 
-google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+# excerpt
+excerpt_separator: "\n\n\n\n"
 
-# Links to include in footer navigation
+# paginate
+gems: [jekyll-paginate]
+paginate: 6

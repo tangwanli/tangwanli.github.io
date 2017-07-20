@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title:  "前端处理动态 url 和 pushStatus 的使用"
+title:  "Jquery事件和方法"
 date:   2017-7-20 17:07:00
 categories: JQuery
 tags: JQuery

@@ -3,6 +3,7 @@ layout: page
 description: "this is index page"
 ---
 
+<!-- 下面这个paginator不知道是干嘛的 -->
 {% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">

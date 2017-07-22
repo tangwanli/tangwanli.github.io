@@ -3,34 +3,12 @@ layout: post
 title:  "hellow my blog!"
 categories: jekyll
 tags: jekyll
-excerpt: 这个是我创建好blog的第一篇默认文章，copy至gaohaoyang
+excerpt: 这个是我创建好blog的第一篇默认文章，留以纪念
 mathjax: true
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+## 历程
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+从大二上就开始折腾博客，不过那时候偷懒只用hexo弄了个大概的样子，然后就没有管了，文章什么的什么也没写。
 
-Jekyll also offers powerful support for code snippets:
-
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
-
-Block Mathjax 
-
-$$
-f(x) = ax + b
-$$
-
-Inline Mathjax $a \neq b$
+现在，大二下的暑假才又来好好的弄博客。 刚用jekyll也是出现一大堆的问题，看了好多人的模板也是觉得都不适合我。最后，有幸看到**gaohaoyang**大神的模板，并且得到大神的指导，我这个博客才算是搭建成功。 在此，对大神表示感谢！

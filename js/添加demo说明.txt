@@ -1,0 +1,2 @@
+添加demo需要修改waterfall.js文件。
+向demoCountent那个数组里面添加对象。

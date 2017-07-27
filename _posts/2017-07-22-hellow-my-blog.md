@@ -4,7 +4,6 @@ title:  "hellow my blog!"
 categories: jekyll
 tags: jekyll
 excerpt: 这个是我创建好blog的第一篇默认文章，留以纪念
-mathjax: true
 ---
 
 ## 历程

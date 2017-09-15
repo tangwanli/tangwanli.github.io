@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ajax + xml + servlet简单运用"
+title:  "ajax + servlet简单运用"
 categories: JavaScript servlet
 tags: JavaScript servlet java 
 excerpt: 想信很多人学了ajax就有一个疑问，到底ajax传数据传到的是什么地址，而且传过去了之后后台是怎么处理的，而且后台是怎么传json数据过来的。这些呢，用文字是很难说清楚的，直接上代码

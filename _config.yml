@@ -7,7 +7,7 @@
 
 # Site settings，主要用于网站头部header
 title: 唐万锂的博客
-brief-intro: It's my life. # 这个是一个小的描述
+brief-intro: 如果帅是一种罪，那我简直罪恶滔天. # 这个是一个小的描述
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://tangwanli.com" # the base hostname & protocol for your site
 

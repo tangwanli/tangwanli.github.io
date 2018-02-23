@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "bootstrap语法详解"
-categories: 工具说明
-tags: bootstrap
+categories: 移动端开发
+tags: 移动端开发 bootstrap
 excerpt: 本文属于干货类型，详解了bootstrap的各种语法。
 ---
 

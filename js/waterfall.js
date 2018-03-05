@@ -135,7 +135,7 @@
     }*/
     {
       demo_link: 'https://github.com/tangwanli/my-projects/blob/master/project/%E5%A4%A7%E4%B8%89/js%E5%B0%81%E8%A3%85%E5%AF%B9%E8%B1%A1/%E5%B0%8F%E8%AF%95%E7%89%9B%E5%88%80/%E5%B1%95%E7%A4%BA%E9%A1%B5.html',
-      img_link: '../img/展示页.png',
+      img_link: '../img/展示页.jpg',
       code_link: 'https://github.com/tangwanli/my-projects/blob/master/project/%E5%A4%A7%E4%B8%89/js%E5%B0%81%E8%A3%85%E5%AF%B9%E8%B1%A1/%E5%B0%8F%E8%AF%95%E7%89%9B%E5%88%80/%E5%B1%95%E7%A4%BA%E9%A1%B5.html',
       title: 'CSS3展示页',
       core_tech: 'CSS3',

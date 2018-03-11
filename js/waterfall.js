@@ -143,7 +143,7 @@
     },
     {
       demo_link: 'https://github.com/tangwanli/my-projects/tree/master/project/%E5%A4%A7%E4%B8%89/%E6%90%9C%E4%B8%AAHammer%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F',
-      img_link: '../img/展示页.jpg',
+      img_link: '../img/搜个Hammer.png',
       code_link: 'https://github.com/tangwanli/my-projects/tree/master/project/%E5%A4%A7%E4%B8%89/%E6%90%9C%E4%B8%AAHammer%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F',
       title: '搜个Hammer',
       core_tech: '微信小程序开发',

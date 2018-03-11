@@ -140,6 +140,14 @@
       title: 'CSS3展示页',
       core_tech: 'CSS3',
       description: '这是一个用css3做的展示页，很简单的效果。主要是通过transform来实现的'
+    },
+    {
+      demo_link: 'https://github.com/tangwanli/my-projects/tree/master/project/%E5%A4%A7%E4%B8%89/%E6%90%9C%E4%B8%AAHammer%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F',
+      img_link: '../img/展示页.jpg',
+      code_link: 'https://github.com/tangwanli/my-projects/tree/master/project/%E5%A4%A7%E4%B8%89/%E6%90%9C%E4%B8%AAHammer%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F',
+      title: '搜个Hammer',
+      core_tech: '微信小程序开发',
+      description: '这个是一个微信小程序，效果其实很简单，主要就是为了看看小程序开发是啥样子的'
     }
   ];
 
